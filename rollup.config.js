@@ -5,10 +5,11 @@ module.exports = {
 }
 
 function createConfig (packageJson) {
-  const {main, module} = packageJson
+  const {dependencies = {}, main, module} = packageJson
 
   return {
     input: 'src/index.ts',
+    external: Object.keys(dependencies),
     plugins: [
       typescript({
         clean: true,
