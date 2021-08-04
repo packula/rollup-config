@@ -1,10 +1,10 @@
 {
-  "name": "@packula/rollup-config",
+  "name": "@snout/rollup-config",
   "version": "0.0.0",
-  "description": "The Rollup configuration used by Packula repositories",
-  "repository": "packula/rollup-config",
-  "bugs": "https://github.com/packula/rollup-config/issues",
-  "homepage": "https://packula.dev",
+  "description": "The Rollup configuration used by Snout repositories",
+  "repository": "snout-router/rollup-config",
+  "bugs": "https://github.com/snout-router/rollup-config/issues",
+  "homepage": "https://snout.dev",
   "author": "Erin Millard <ezzatron@gmail.com>",
   "license": "MIT",
   "publishConfig": {
