@@ -1,4 +1,4 @@
-# Snout Rollup configuration
+# Snout Rollup Configuration
 
 [![Current version][badge-version-image]][badge-version-link]
 
